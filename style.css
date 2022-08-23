@@ -64,3 +64,6 @@ input[type="submit"] {
     transition: 1s all;
     border: none;
 }
+
+.cont-Post {display: flex; flex-wrap: wrap;
+        justify-content: space-evenly; }
